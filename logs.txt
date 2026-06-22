@@ -1,0 +1,8 @@
+2026-06-19 18:07:25,965 - INFO - Program started
+2026-06-19 18:07:26,113 - INFO - Excel file created successfully
+2026-06-19 18:07:29,260 - INFO - Program started
+2026-06-19 18:07:29,261 - ERROR - Input file not found
+2026-06-19 18:13:23,033 - INFO - Program started
+2026-06-19 18:13:23,214 - INFO - Excel file created successfully
+2026-06-19 18:14:30,474 - INFO - Program started
+2026-06-19 18:14:30,627 - INFO - Output saved to output.xlsx
